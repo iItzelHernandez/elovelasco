@@ -1,0 +1,39 @@
+<html>
+   <head>
+     <title> estilos en html </title>
+       <style type="text/css">
+   </head>
+h1
+{
+}
+a:link{text-decoration:none;color:red:}
+a:visited{text-decoration:none;color:black:}
+a:active{text-decoration:none;color:blue:}
+a:hover{text-decoration:none;color:green;font-weight:bolder;}
+body
+{
+background-image:ur(fondo.jpg)
+color:white;
+margin-top:2.5cm;
+margin-left:2.5cm;
+margin-right:2.5cm;
+margin-bottom:2.5cm;
+}
+img:
+{
+background-image:url(000.jpg)
+color:white;
+margin-top:lin;
+margin-left:0.5cm;
+margin-right:lin;
+margin-bottom:lin;
+}
+h1
+{
+font-style:oblique;
+font-size=2em;
+font-family:castellar, arial;
+text-align:center;
+}
+</html>
+
